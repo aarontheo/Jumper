@@ -1,0 +1,16 @@
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/bin/Debug/net5.0/Jumper
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/bin/Debug/net5.0/Jumper.deps.json
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/bin/Debug/net5.0/Jumper.runtimeconfig.json
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/bin/Debug/net5.0/Jumper.runtimeconfig.dev.json
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/bin/Debug/net5.0/Jumper.dll
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/bin/Debug/net5.0/Jumper.pdb
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/obj/Debug/net5.0/Jumper.csproj.AssemblyReference.cache
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/obj/Debug/net5.0/Jumper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/obj/Debug/net5.0/Jumper.AssemblyInfoInputs.cache
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/obj/Debug/net5.0/Jumper.AssemblyInfo.cs
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/obj/Debug/net5.0/Jumper.csproj.CoreCompileInputs.cache
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/obj/Debug/net5.0/Jumper.dll
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/obj/Debug/net5.0/refint/Jumper.dll
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/obj/Debug/net5.0/Jumper.pdb
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/obj/Debug/net5.0/Jumper.genruntimeconfig.cache
+/Users/aarontheobald/Desktop/Projects/C#/Jumper/obj/Debug/net5.0/ref/Jumper.dll
