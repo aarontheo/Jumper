@@ -6,10 +6,11 @@ namespace Jumper
     public class WordBank
     {
         private static Random rnGenerator = new Random();
-        private List<String> words { get; set; }
+        private List<String> words;
         public WordBank(String path)
         {
-            words = (List<String>) System.IO.File.ReadLines(path);
+            var logFile = System.IO.File.ReadAllLines(path);
+            words = new List<string>(logFile);
         }
         /// <summary>
         /// 'serves' a random word from the bank, 
