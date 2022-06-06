@@ -5,8 +5,8 @@ namespace Jumper
 {
     public class Director
     {
-        public int score;
-        public int fails;
+        private int score;
+        private int fails;
         public int lives;
         private WordBank wordlist;
         private String currentWord;
@@ -51,7 +51,7 @@ namespace Jumper
             Console.WriteLine($"Score: {score}\nLives: {lives}");
             Jumper.DrawLines(fails);
             //draw the word
-            Console.WriteLine(currentWord);
+            //Console.WriteLine(currentWord);
             for (int i = 0; i < currentWord.Length; i++)
             {
                 if (hiddenLetters[i]) //if the letter has been guessed
@@ -60,6 +60,11 @@ namespace Jumper
                 }else{
                     Console.Write("_ ");
                 }
+            }
+            Console.Write("\nWrong guesses: ");
+            foreach(char c in wrongGuesses)
+            {
+                Console.Write(c);
             }
             Console.Write('\n');
         }
